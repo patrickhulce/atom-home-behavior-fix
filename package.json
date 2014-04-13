@@ -1,0 +1,14 @@
+{
+  "name": "home-behavior-fix",
+  "main": "./lib/home-behavior-fix",
+  "version": "0.0.0",
+  "description": "Fixes home behavior to move cursor to beginning of line excluding whitespace.",
+  "activationEvents": ["home-behavior-fix:home"],
+  "repository": "https://github.com/patrickhulce/home-behavior-fix",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
