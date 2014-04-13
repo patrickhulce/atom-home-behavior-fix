@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Fixes home behavior to move cursor to beginning of line excluding whitespace.",
   "activationEvents": ["home-behavior-fix:home"],
-  "repository": "https://github.com/patrickhulce/home-behavior-fix",
+  "repository": "https://github.com/patrickhulce/atom-home-behavior-fix.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
